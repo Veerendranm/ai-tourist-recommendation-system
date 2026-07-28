@@ -43,29 +43,39 @@ Developed as part of the B.E. Final Year Major Project at **Channabasaveshwara I
 
 ## ⚙️ Quick Start & Installation
 
+## ⚙️ Quick Start & Installation
+
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Veerendranm/ai-tourist-recommendation-system.git](https://github.com/Veerendranm/ai-tourist-recommendation-system.git)
+git clone https://github.com/Veerendranm/ai-tourist-recommendation-system.git
 cd ai-tourist-recommendation-system
+```
 
 ### 2. Set Up Environment & Dependencies
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+```
 
 ### 3. Launch Application
+```bash
 python app.py
+```
 
-**📄 Project Verification & Industry Partnership**
-Institution: Department of AI & DS, Channabasaveshwara Institute of Technology
+---
 
-Industry Collaboration: Eunoia Labs, Bangalore (Project Completion Certificate issued May 2025)
+## 📄 Project Verification & Industry Partnership
 
-**🤝 Contact & Connect**
+* **Institution:** Department of AI & DS, Channabasaveshwara Institute of Technology
+* **Industry Collaboration:** Eunoia Labs, Bangalore (Project Completion Certificate issued May 2025)
+
+---
+
+## 🤝 Contact & Connect
+
 If you find this repository helpful, feel free to star ⭐️ it!
 
-Author: Veerendra N M
-
-Email: vveerendranm@gmail.com
-
-LinkedIn: linkedin.com/in/veerendra-n-m-1a4b13280
+* **Author:** Veerendra N M
+* **Email:** vveerendranm@gmail.com
+* **LinkedIn:** [https://linkedin.com/in/veerendra-n-m-1a4b13280](https://linkedin.com/in/veerendra-n-m-1a4b13280)
